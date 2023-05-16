@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dorothy-Bopper
+- 👋 Hi, I’m @daniel6131
 - 👀 I’m interested in Software Engineering and Web Development
 - 🌱 I’m currently learning AWS
 - 📫 How to reach me: email - daniel6131@hotmail.com
